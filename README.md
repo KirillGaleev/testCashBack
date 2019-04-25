@@ -1,1 +1,1 @@
-# Project Sample [![Build Status](https://travis-ci.org/KirillGaleev/testCashBack.svg?branch=master)](https://travis-ci.org/KirillGaleev/testCashBack)
+# Project Sample [![Build Status](https://travis-ci.org/KirillGaleev/testCashBack.svg?branch=master)](https://travis-ci.org/KirillGaleev/testCashBack) [![codecov](https://codecov.io/gh/KirillGaleev/testCashBack/branch/master/graph/badge.svg)](https://codecov.io/gh/KirillGaleev/testCashBack)
