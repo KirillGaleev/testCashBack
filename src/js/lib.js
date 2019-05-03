@@ -5,6 +5,6 @@ export function calculateCashBack(regPurchase, elevPurchase, specPurchase) {
     const regCashBack = regPurchase / 100 * regPercent;
     const elevCashBack = elevPurchase / 100 * elevPercent;
     const specCashBack = specPurchase / 100 * specPercent;
-    const CashBack = regCashBack + elevCashBack + specCashBack;
-    return CashBack;
+    const cashBack = regCashBack + elevCashBack + specCashBack;
+    return cashBack;
 }
